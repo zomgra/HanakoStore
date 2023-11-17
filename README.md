@@ -1,1 +1,1 @@
-# HanakoStore 1
+# HanakoStore 2
